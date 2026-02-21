@@ -12,20 +12,27 @@ This repository tracks my progress through **130+ problem sets** inspired by the
 ## 🎯 The Mission
 To transition from basic procedural logic to advanced algorithmic thinking, data structures, and Pythonic efficiency.
 
-## 📊 Challenge Structure
+## 📊 Full Challenge Structure (130+ Problems)
+
 The problems are divided into 13 levels, focusing on different core concepts:
+ 
+ ### 🟢 Phase 1: Algorithmic Foundations
+ 
+- **Level 1:** Basics, Loops & Logic (Change Maker, Luhn's Algorithm, Ciphers)
+- **Level 2:** Collections & Data Structures (DNA Matcher, Matrix Multiplier, Election Counter)
+- **Level 3:** Functional Mastery & Recursion (Sudoku Validator, Tower of Hanoi, N-Queens)
 
-### 🟢 Level 1: Foundations & Logic (Basics to Loops)
-- [ ] **Problem 1:** The Change Maker - Calculating minimum coins using float-to-cent conversion.
-- [ ] **Problem 2:** Credit Card Validator - Implementing Luhn's Algorithm for card integrity.
-- [ ] **Problem 3:** Mario's Pyramid (Advanced) - Mastering nested loops and formatting.
-- [ ] **Problem 4:** Collatz Conjecture - Simulating mathematical sequences.
-- [ ] **Problem 5:** Vigenère Cipher - Keyword-based encryption logic.
+### 🟡 Phase 2: Advanced Engineering
 
-### 🟡 Next Steps
-- **Level 2-4:** Collections, Data Structures, and String Gymnastics.
-- **Level 5-9**: Game Logic, Advanced Recursion, and System Design.
-- **Level 10-13** The "Hacker" Data Sets and The Grand Finale.
+- **Level 4:** Mathematical Gymnastics (IP Validator, Pig Latin, Big Int Multiplication)
+- **Level 5:** Game Logic & State Management (Tideman Algorithm, Minesweeper, Battleship)
+- **Level 6:** Optimization & Backtracking (Recursive Maze Solver, Word Ladder, Merge Sort)
+
+### 🔴 Phase 3: Specialized Systems
+
+- **Level 7-9:** Cryptography, Physics Simulations, & System Design (Monte Carlo, Stock Profit, Markdown Parser)
+- **Level 10-12:** "Hacker" Data Sets & Complex Simulations (Wordle Logic, Tax Bracket Calculator, Knight's Tour)
+- **Level 13:** The Grand Finale (Bank Systems, Josephus Problem, & Master Quiz)
 
 ## 🛠️ Tech Stack & Skills
 - **Language:** Python 3.x
