@@ -33,5 +33,5 @@ The problems are divided into 13 levels, focusing on different core concepts:
 - **Focus:** Error handling (try/except) and the DRY (Don't Repeat Yourself) principle.
 
 ---
-**“Success is not just about writing code that works, but writing code that is elegant.”**
+**“Your only limit is one you set for yourself.”**
 **Maintained by: Hafiz Muhammad Ahsan Kaleem**
